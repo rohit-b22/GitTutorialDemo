@@ -1,0 +1,3 @@
+this is version 1
+Changes made after staging first.txt4
+This lecture is regarding skipping staging area
